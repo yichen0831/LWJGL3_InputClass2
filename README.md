@@ -1,4 +1,4 @@
-# LWJGL3_InputClass
+# LWJGL3_InputClass2
 A input class for use in LWJGL3 which help easier handle the KeyCallback.
 
 This input class can be checked however many times during one update loop. That is, if several objects call Input.isKeyPressed(GLFW_KEY_SPACE) for instance, every object will get true if the space is pressed.
